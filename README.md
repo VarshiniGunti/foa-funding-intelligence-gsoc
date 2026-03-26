@@ -2,6 +2,8 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Code style: PEP 8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://pep8.org/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 
 Automated extraction and semantic tagging of Funding Opportunity Announcements (FOAs) from federal agencies. This tool ingests FOA pages, extracts structured data, and applies rule-based semantic tags to support research discovery and grant matching.
 
@@ -267,7 +269,3 @@ INFO - Exported CSV: ./output/foa.csv
 ## GSoC 2026
 
 This project is part of Google Summer of Code 2026 with the HumanAI Organization.
-
-## Contact
-
-For questions or issues, open a GitHub issue or contact the HumanAI team at human-ai@cern.ch
