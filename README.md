@@ -87,7 +87,7 @@ Output: foa.json, foa.csv
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/foa-ingestion.git
+git clone https://github.com/VarshiniGunti/foa-funding-intelligence-gsoc.git
 cd foa-ingestion
 
 # Create virtual environment (recommended)
@@ -268,4 +268,4 @@ INFO - Exported CSV: ./output/foa.csv
 
 ## GSoC 2026
 
-This project is part of Google Summer of Code 2026 with the HumanAI Organization.
+This repository provides a minimal reproducible prototype for FOA ingestion and semantic tagging, forming a foundation for future grant-matching systems. This project is part of Google Summer of Code 2026 with the HumanAI Organization.
