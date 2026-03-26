@@ -1,0 +1,20 @@
+{
+  "foa_id": "NSF-24-001",
+  "title": "Artificial Intelligence Research Institutes (AI Institutes)",
+  "agency": "National Science Foundation",
+  "open_date": "2024-01-15",
+  "close_date": "2024-06-30",
+  "eligibility": "Eligible organizations include institutions of higher education, non-profit organizations, and for-profit organizations. International collaborations are encouraged. Applicants must demonstrate institutional commitment and research capacity in AI.",
+  "program_description": "The AI Institutes program aims to establish a network of AI research institutes that will conduct fundamental and use-inspired research in AI. Each institute will focus on a specific AI research challenge and will bring together researchers from academia, industry, and government. The institutes will also provide training and workforce development opportunities for the next generation of AI researchers and practitioners.",
+  "award_range": "$20,000,000 - $25,000,000",
+  "source_url": "https://www.nsf.gov/pubs/2024/nsf24001/nsf24001.jsp",
+  "semantic_tags": [
+    "domain:AI",
+    "method:Computational",
+    "method:Data-Driven",
+    "theme:Collaboration",
+    "theme:Education",
+    "theme:Infrastructure",
+    "population:Students"
+  ]
+}
